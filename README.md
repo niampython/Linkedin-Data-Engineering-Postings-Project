@@ -1,45 +1,87 @@
-📌 Project Overview
-This project is designed to gain insights into Data Engineering job postings on LinkedIn. Using the LinkedIn Jobs API from RapidAPI, the project extracts job posting data, transforms it into a clean tabular format, and loads it into a SQL Server database. The database is then connected to Power BI to create an interactive dashboard that visualizes hiring trends and requirements for data engineers.
-The primary goal is to analyze job market demand for data engineers within the last 7 days and answer questions such as:
-•	Total number of Data Engineering postings in the past week
-•	Number of remote positions available
-•	Number of full-time postings
-•	Distribution of employment types (%)
-•	Number of job postings by employer
-•	Number of job postings by state
-•	Top skills required for Data Engineering roles
-This project demonstrates a full ETL (Extract, Transform, Load) pipeline with insights delivered through Power BI dashboards.
-________________________________________
-🛠 Tech Stack
-•	Python → for API requests & data extraction
-•	Pandas → for data cleaning and transformation
-•	SQL Server → for structured data storage
-•	Power BI → for visualization and dashboard reporting
-________________________________________
-🔄 ETL Workflow
-1. Extract
-•	Retrieve Data Engineering job postings from the LinkedIn Jobs API (RapidAPI).
-•	Pull job title, company name, location, employment type, posting date, and skills.
-2. Transform
-•	Convert API response into a tabular format using Pandas.
-•	Clean and standardize fields (dates, employer names, job locations, employment types).
-•	Derive features such as remote vs. on-site, employment type categories, and skill frequency counts.
-3. Load
-•	Insert transformed data into SQL Server database tables.
-•	Store both raw data and cleaned data for reproducibility.
-4. Visualize
-•	Connect Power BI to the SQL Server database.
-•	Build interactive dashboards to show:
-o	Total postings (7 days)
-o	Remote vs. onsite jobs
-o	Full-time vs. part-time vs. contract distributions
-o	Top employers hiring data engineers
-o	Job postings by state
-o	Top technical skills required
+# 💼 Linkedin Data Engineering Postings Project  
 
-⚡ This way, recruiters, hiring managers, or aspiring data engineers can quickly understand where the demand is highest, which companies are hiring, and what skills are most valuable in the current job market.
+Gain insights into the **Data Engineering job market** by analyzing LinkedIn job postings through a complete **ETL pipeline** — from data extraction using APIs to visualization in Power BI.  
 
-🚀 How to Run
+---
+
+## 🧭 Table of Contents  
+1. [📌 Project Overview](#-project-overview)  
+2. [🛠 Tech Stack](#-tech-stack)  
+3. [🔄 ETL Workflow](#-etl-workflow)  
+4. [🚀 How to Run](#-how-to-run)  
+    - [1. Clone the Repository](#1-clone-the-repository)  
+    - [2. Set Up Python Environment](#2-set-up-python-environment)  
+    - [3. Configure Environment Variables](#3-configure-environment-variables)  
+    - [4. Run the ETL Script](#4-run-the-etl-script)  
+    - [5. Verify Data in SQL Server](#5-verify-data-in-sql-server)  
+    - [6. Open the Power BI Dashboard](#6-open-the-power-bi-dashboard)  
+    - [7. Explore the Insights](#7-explore-the-insights)  
+5. [📊 Example Insights](#-example-insights)  
+6. [⚡ Conclusion](#-conclusion)  
+
+---
+
+## 📌 Project Overview  
+
+This project is designed to gain insights into **Data Engineering job postings on LinkedIn**.  
+Using the **LinkedIn Jobs API** from RapidAPI, it extracts job posting data, transforms it into a clean tabular format, and loads it into a **SQL Server** database.  
+The data is then visualized in **Power BI** to uncover hiring trends and skill demand.  
+
+### Objectives  
+Analyze job market demand for data engineers within the last 7 days and answer questions such as:  
+
+- Total number of Data Engineering postings in the past week  
+- Number of remote positions available  
+- Number of full-time postings  
+- Distribution of employment types (%)  
+- Number of job postings by employer  
+- Number of job postings by state  
+- Top skills required for Data Engineering roles  
+
+This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline with **Power BI dashboards** for insights.  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Python** → for API requests & data extraction  
+- **Pandas** → for data cleaning and transformation  
+- **SQL Server** → for structured data storage  
+- **Power BI** → for visualization and dashboard reporting  
+
+---
+
+## 🔄 ETL Workflow  
+
+### 1. Extract  
+- Retrieve Data Engineering job postings from the **LinkedIn Jobs API (RapidAPI)**.  
+- Pull job title, company name, location, employment type, posting date, and skills.  
+
+### 2. Transform  
+- Convert API response into a tabular format using **Pandas**.  
+- Clean and standardize fields (dates, employer names, job locations, employment types).  
+- Derive new features such as remote vs. on-site, employment type categories, and skill frequency counts.  
+
+### 3. Load  
+- Insert transformed data into **SQL Server** database tables.  
+- Store both raw and cleaned datasets for reproducibility.  
+
+### 4. Visualize  
+- Connect **Power BI** to the SQL Server database.  
+- Build interactive dashboards to show:  
+  - Total postings (7 days)  
+  - Remote vs. onsite jobs  
+  - Full-time vs. part-time vs. contract distributions  
+  - Top employers hiring data engineers  
+  - Job postings by state  
+  - Top technical skills required  
+
+⚡ This enables recruiters, hiring managers, and aspiring data engineers to identify where demand is highest, which companies are hiring, and what skills are most valuable.  
+
+---
+
+## 🚀 How to Run 
+
 1. Clone the Repository
 git clone https://github.com/your-username/data-engineering-job-postings.git
 cd data-engineering-job-postings
@@ -84,8 +126,5 @@ The Power BI dashboard includes:
 •	Job postings by employer
 •	Job postings by U.S. state
 •	Top technical skills required
-
-
-
-
-
+### 1. Clone the Repository  
+```
