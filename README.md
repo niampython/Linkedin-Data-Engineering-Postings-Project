@@ -18,7 +18,7 @@ Gain insights into the **Data Engineering job market** by analyzing LinkedIn job
     - [7. Explore the Insights](#7-explore-the-insights)  
 5. [📊 Example Insights](#-example-insights)  
 6. [⚡ Conclusion](#-conclusion)
-7. [📊 Linked Jobs SQL Server Database created)
+7. [📊 Linked Jobs SQL Server Database created](#-Linked Jobs SQL Server Database created))
 8. [📊 Data engineering Job Postings Analysis Power BI Dashboard)
 
 ---
