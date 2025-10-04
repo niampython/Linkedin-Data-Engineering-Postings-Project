@@ -17,7 +17,9 @@ Gain insights into the **Data Engineering job market** by analyzing LinkedIn job
     - [6. Open the Power BI Dashboard](#6-open-the-power-bi-dashboard)  
     - [7. Explore the Insights](#7-explore-the-insights)  
 5. [📊 Example Insights](#-example-insights)  
-6. [⚡ Conclusion](#-conclusion)  
+6. [⚡ Conclusion](#-conclusion)
+7. [📊 Linked Jobs SQL Server Database created)
+8. [📊 Data engineering Job Postings Analysis Power BI Dashboard)
 
 ---
 
@@ -126,5 +128,15 @@ The Power BI dashboard includes:
 •	Job postings by employer
 •	Job postings by U.S. state
 •	Top technical skills required
-### 1. Clone the Repository  
+### SQL Server Database created "Linkedin_jobs" 
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/92e95080-c662-432d-a035-c142d9d9d82e" />
+
+### Power BI Data Engineering Job Postings Analysis Dashboard
+
+
+<img width="1215" height="807" alt="image" src="https://github.com/user-attachments/assets/26c8f8c4-3d59-4e6f-af63-bbd7243fef96" />
+
+
+
 ```
