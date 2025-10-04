@@ -1,0 +1,238 @@
+2025-09-20 18:47:58.070 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '0', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:01.917 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '100', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:05.015 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '200', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:07.897 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '300', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:10.618 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '400', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:13.389 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '500', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:16.361 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '600', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:19.211 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '700', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:21.836 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '800', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:24.701 | PID:98380 | TID32052| Fetching data with params: {'limit': '100', 'offset': '900', 'title_filter': 'Data Engineer', 'location_filter': 'United States', 'description_type': 'text'}
+2025-09-20 18:48:33.252 | PID:98380 | TID32052| api sample results {
+    "id": "1873929964",
+    "date_posted": "2025-09-20T21:32:43.954",
+    "date_created": "2025-09-20T21:34:44.034558",
+    "title": "Data Engineer",
+    "organization": "Best Job Tool",
+    "organization_url": "https://in.linkedin.com/company/best-job-tool",
+    "date_validthrough": null,
+    "locations_raw": [
+        {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "",
+                "addressCountry": "",
+                "addressLocality": "United States"
+            }
+        }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+        "FULL_TIME"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4303528718",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGsT77GQrkFFA/company-logo_100_100/company-logo_100_100/0/1737695564287?e=2147483647&v=beta&t=pYXe5Z5TBfYOqodx0mspJ29V8IHGC5_9aEdw1MPggSA",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+        "United States"
+    ],
+    "locations_derived": [
+        "United States"
+    ],
+    "timezones_derived": [
+        "America/Chicago"
+    ],
+    "lats_derived": [
+        39.7837304
+    ],
+    "lngs_derived": [
+        -100.445882
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": null,
+    "linkedin_org_url": "https://www.bestjobtool.com",
+    "linkedin_org_size": "2-10 employees",
+    "linkedin_org_slogan": "Connecting Talent with Opportunity.",
+    "linkedin_org_industry": "IT Services and IT Consulting",
+    "linkedin_org_followers": 926,
+    "linkedin_org_headquarters": "Indore, Madhya Pradesh",
+    "linkedin_org_type": "Public Company",
+    "linkedin_org_foundeddate": "2024",
+    "linkedin_org_specialties": [
+        ""
+    ],
+    "linkedin_org_locations": [
+        "Vijay Nagar Main Road, Indore, Madhya Pradesh 452010, IN"
+    ],
+    "linkedin_org_description": "Best Job Tool is a dynamic job search platform dedicated to connecting talented individuals with leading employers across various industries. Our mission is to revolutionize the job search experience by providing a user-friendly interface and comprehensive resources to help job seekers find their ideal roles. We offer detailed job descriptions, including responsibilities, qualifications, and requirements, to ensure candidates have all the information they need to make informed career decisions. Explore top job opportunities and advance your career with Best Job Tool.",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Associate",
+    "directapply": false,
+    "linkedin_org_slug": "best-job-tool",
+    "no_jb_schema": true,
+    "external_apply_url": "https://www.bestjobtool.com/job-description/3003916804?src=LinkedIn",
+    "ats_duplicate": false,
+    "description_text": "About The Company\n\nBering Straits Native Corporation (BSNC) is a prominent and respected organization dedicated to serving the unique needs of Alaska Native shareholders and communities. As part of the BSNC family, Arcticom specializes in providing innovative solutions within the defense, government, and commercial sectors. The company prides itself on fostering a collaborative and inclusive work environment that values integrity, excellence, and community engagement. With a commitment to leveraging cutting-edge technology and fostering professional development, BSNC aims to deliver exceptional value to its clients while creating meaningful opportunities for its employees.\n\nAbout The Role\n\nArcticom is seeking a highly skilled Data Engineer II to join our team remotely. The ideal candidate will have extensive experience working within Department of Defense (DoD) data environments, with particular knowledge of Air Force data sources. This role requires a strong focus on data wrangling and cleaning, involving preparing and structuring raw data for enrichment and transformation. The successful candidate will perform data transformation tasks such as converting data types, standardizing formats, normalization, aggregations, storage and retrieval, removing duplicates, fixing typos, and handling missing values. Unlike data analytics, which interprets data to identify trends, this role emphasizes data mining \u2014 the exploratory process of extracting hidden valuable information from large datasets. The Data Engineer II will collaborate with various stakeholders to facilitate data extraction, validation, and transformation, ensuring data integrity and usability for analysis and decision-making.\n\nQualifications\n\nThe ideal candidate will possess a combination of education, experience, and skills aligned with the role requirements:\n\nA minimum of ten years of professional experience in data engineering or related fields.\nBachelor\u2019s degree in Computer Science, Information Systems, Business, or a related discipline.\nProficiency in programming languages and technologies including Spark, Python, SQL, and Databricks.\nExperience working within cloud environments, particularly with S3 storage, migration, and clusters.\nAbility to develop and execute complex SQL queries, utilizing tools such as iQuery SQL Editor.\nKnowledge of API implementation and ETL methodologies.\nNice-to-have skills include SharePoint development, REST APIs, Power Automate, and Microsoft 365 ecosystem familiarity.\nStrong understanding of the DoD data environment and Air Force data sources.\nExceptional attention to detail, organizational skills, and the ability to manage multiple priorities effectively.\nExcellent communication skills to interact with clients, partners, and team members at various levels.\n\nAdditional qualifications include the ability to identify and resolve data issues, evaluate alternative solutions, and work collaboratively within a team.\n\nResponsibilities\n\nThe Data Engineer II will be responsible for a variety of tasks aimed at transforming raw data into usable formats for analysis and operational purposes:\n\nTransform and structure data to facilitate analysis, ensuring data is in a format that can be easily interpreted by functional users and managers.\nInterface with users to gather functional needs and translate them into technical requirements.\nExtract data from multiple information systems, transforming it into reviewable formats such as Excel tables for validation.\nPerform data validation, cleansing, and verification to maintain high data quality standards.\nDevelop and optimize SQL queries for data retrieval, filtering, and manipulation across various databases.\nDocument ETL processes and ensure a consistent, repeatable approach to data transformation.\nResearch and troubleshoot data issues, providing recommendations for resolution and process improvements.\nCollaborate with stakeholders to understand data requirements and deliver solutions that support operational and analytical needs.\nMaintain awareness of emerging data engineering technologies and best practices to enhance data management processes.\n\nBenefits\n\nJoining Arcticom offers a competitive benefits package designed to support our employees' well-being and professional growth. Benefits include comprehensive health insurance options, dental and vision coverage, life insurance, and a 401(k) retirement plan with company matching. Employees enjoy paid time off, holidays, and opportunities for ongoing training and development. The organization fosters a collaborative environment with flexible work arrangements to promote work-life balance. Additionally, employees have access to resources and support systems aimed at career advancement and personal development, ensuring a rewarding and fulfilling professional experience.\n\nEqual Opportunity\n\nArcticom, as part of Bering Straits Native Corporation, is committed to creating a diverse and inclusive workplace. We provide equal employment opportunities to all applicants and employees without regard to race, color, religion, sex, national origin, age, disability, or any other protected status under applicable law. We believe that diversity enhances our culture and drives innovation, and we are dedicated to fostering an environment where every individual can thrive and contribute to our collective success. \nShow more Show less"
+}
+2025-09-20 18:48:36.136 | PID:98380 | TID32052| shape of table(1000, 52)
+2025-09-20 18:48:38.835 | PID:98380 | TID32052| new table            id              date_posted                           title  \
+0  1873929964  2025-09-20T21:32:43.954                   Data Engineer   
+1  1873849392      2025-09-20T19:53:04                   Data Engineer   
+2  1873849728      2025-09-20T19:52:52  Network / Data Center Engineer   
+3  1873849400      2025-09-20T19:52:50              Data Engineer Lead   
+4  1873849403      2025-09-20T19:52:50        Data Analytical Engineer   
+
+                        organization                       locations_derived  \
+0                      Best Job Tool                         [United States]   
+1  Vinsys Information Technology Inc    [Seattle, Washington, United States]   
+2               Kanak Elite Services         [Abilene, Texas, United States]   
+3                Shrive Technologies    [Fremont, California, United States]   
+4  Vinsys Information Technology Inc  [Malvern, Pennsylvania, United States]   
+
+  cities_derived employment_type  remote_derived  salary_raw.value.minValue  \
+0           None     [FULL_TIME]           False                        NaN   
+1      [Seattle]     [FULL_TIME]           False                        NaN   
+2      [Abilene]     [FULL_TIME]           False                        NaN   
+3      [Fremont]     [FULL_TIME]           False                        NaN   
+4      [Malvern]     [FULL_TIME]           False                        NaN   
+
+   salary_raw.value.maxValue  \
+0                        NaN   
+1                        NaN   
+2                        NaN   
+3                        NaN   
+4                        NaN   
+
+                                    description_text  
+0  About The Company\n\nBering Straits Native Cor...  
+1  Data Engineer II Global Marketing Technology\n...  
+2  Role: Data Center Technician\n\nLocation Abile...  
+3  Microsoft Fabric.\nMicrosoft Azure: Azure Data...  
+4  Writes ETL (Extract / Transform / Load) proces...  
+2025-09-20 18:48:51.544 | PID:98380 | TID32052| column date_posted is now displayed as           id date_posted          title   organization locations_derived  \
+0  1873929964  2025-09-20  Data Engineer  Best Job Tool   [United States]   
+
+  cities_derived employment_type  remote_derived  salary_raw.value.minValue  \
+0           None     [FULL_TIME]           False                        NaN   
+
+   salary_raw.value.maxValue  \
+0                        NaN   
+
+                                    description_text  
+0  About The Company\n\nBering Straits Native Cor...  
+2025-09-20 18:48:55.172 | PID:98380 | TID32052| Starting transformation of 'cities_derived' column.
+2025-09-20 18:48:59.950 | PID:98380 | TID32052| dataframe before transformation0    [FULL_TIME]
+1    [FULL_TIME]
+2    [FULL_TIME]
+3    [FULL_TIME]
+4    [FULL_TIME]
+Name: employment_type, dtype: object
+2025-09-20 18:48:59.952 | PID:98380 | TID32052| dataframe after transformation0    [FULL_TIME]
+1    [FULL_TIME]
+2    [FULL_TIME]
+3    [FULL_TIME]
+4    [FULL_TIME]
+Name: employment_type, dtype: object
+2025-09-20 18:49:01.413 | PID:98380 | TID32052| dataframe before transformation0   NaN
+1   NaN
+Name: salary_raw.value.minValue, dtype: float64
+2025-09-20 18:49:01.419 | PID:98380 | TID32052| dataframe after transformation0    NaN
+1    NaN
+Name: salary_raw.value.minValue, dtype: object
+2025-09-20 18:49:04.902 | PID:98380 | TID32052| dataframe before transformation0   NaN
+1   NaN
+Name: salary_raw.value.maxValue, dtype: float64
+2025-09-20 18:49:04.904 | PID:98380 | TID32052| dataframe after transformation0    NaN
+1    NaN
+Name: salary_raw.value.maxValue, dtype: object
+2025-09-20 18:49:07.073 | PID:98380 | TID32052| dataframe before transformation0                         [United States]
+1    [Seattle, Washington, United States]
+Name: locations_derived, dtype: object
+2025-09-20 18:49:07.078 | PID:98380 | TID32052| dataframe after transformation0                         United States
+1    Seattle, Washington, United States
+Name: locations_derived, dtype: object
+2025-09-20 18:49:09.563 | PID:98380 | TID32052| dataframe before transformation0                         United States
+1    Seattle, Washington, United States
+Name: locations_derived, dtype: object
+2025-09-20 18:49:09.583 | PID:98380 | TID32052| dataframe after transformation0                         United States
+1    Seattle, Washington, United States
+Name: locations_derived, dtype: object
+2025-09-20 18:49:11.924 | PID:98380 | TID32052| new column created 0           None
+1     Washington
+2          Texas
+Name: state, dtype: object
+2025-09-20 18:49:13.938 | PID:98380 | TID32052| Dataframe with updated columns            id date_posted                           title  \
+0  1873929964  2025-09-20                   Data Engineer   
+1  1873849392         NaT                   Data Engineer   
+2  1873849728         NaT  Network / Data Center Engineer   
+3  1873849400         NaT              Data Engineer Lead   
+
+                        organization                   locations_derived  ...  \
+0                      Best Job Tool                       United States  ...   
+1  Vinsys Information Technology Inc  Seattle, Washington, United States  ...   
+2               Kanak Elite Services       Abilene, Texas, United States  ...   
+3                Shrive Technologies  Fremont, California, United States  ...   
+
+  remote_derived salary_raw.value.minValue  salary_raw.value.maxValue  \
+0          False                       NaN                        NaN   
+1          False                       NaN                        NaN   
+2          False                       NaN                        NaN   
+3          False                       NaN                        NaN   
+
+                                    description_text        state  
+0  About The Company\n\nBering Straits Native Cor...         None  
+1  Data Engineer II Global Marketing Technology\n...   Washington  
+2  Role: Data Center Technician\n\nLocation Abile...        Texas  
+3  Microsoft Fabric.\nMicrosoft Azure: Azure Data...   California  
+
+[4 rows x 12 columns]
+2025-09-20 18:49:16.277 | PID:98380 | TID32052| dataframe after extracting state 0           None
+1     Washington
+Name: state, dtype: object
+2025-09-20 18:49:18.603 | PID:98380 | TID32052| dataframe before transformation0                         United States
+1    Seattle, Washington, United States
+Name: locations_derived, dtype: object
+2025-09-20 18:49:18.607 | PID:98380 | TID32052| dataframe before transformation           id date_posted          title   organization cities_derived  ...  \
+0  1873929964  2025-09-20  Data Engineer  Best Job Tool           None  ...   
+
+  remote_derived  salary_raw.value.minValue salary_raw.value.maxValue  \
+0          False                        NaN                       NaN   
+
+                                    description_text state  
+0  About The Company\n\nBering Straits Native Cor...  None  
+
+[1 rows x 11 columns]
+2025-09-20 18:49:21.132 | PID:98380 | TID32052| dataframe before transformation0           None
+1     Washington
+Name: state, dtype: object
+2025-09-20 18:49:21.136 | PID:98380 | TID32052| dataframe after transformation0           None
+1     Washington
+Name: state, dtype: object
+2025-09-20 18:49:22.790 | PID:98380 | TID32052| dataframe before transformationobject
+2025-09-20 18:49:22.792 | PID:98380 | TID32052| 'description_text' dtype after transformation: string
+2025-09-20 18:49:25.188 | PID:98380 | TID32052| dataframe before transformation0    About The Company\n\nBering Straits Native Cor...
+Name: description_text, dtype: string
+2025-09-20 18:49:27.378 | PID:98380 | TID32052| dataframe after transformation0    [python, sql, spark, data management, engineer...
+Name: skills_requirements, dtype: object
+2025-09-20 18:49:36.806 | PID:98380 | TID32052| dataframe before dropping description_text columnIndex(['id', 'date_posted', 'title', 'organization', 'state', 'cities_derived',
+       'employment_type', 'remote_derived', 'salary_raw.value.minValue',
+       'salary_raw.value.maxValue', 'description_text', 'skills_requirements'],
+      dtype='object')
+2025-09-20 18:49:36.808 | PID:98380 | TID32052| dataframe after dropping description_text columnIndex(['id', 'date_posted', 'title', 'organization', 'state', 'cities_derived',
+       'employment_type', 'remote_derived', 'salary_raw.value.minValue',
+       'salary_raw.value.maxValue', 'skills_requirements'],
+      dtype='object')
+2025-09-20 18:49:38.330 | PID:98380 | TID32052| dataframe before skills requirements transformation0    [python, sql, spark, data management, engineer...
+1    [python, sql, spark, azure, snowflake, data ma...
+Name: skills_requirements, dtype: object
+2025-09-20 18:49:38.333 | PID:98380 | TID32052| dataframe after skills requirements transformation0    python, sql, spark, data management, engineeri...
+1    python, sql, spark, azure, snowflake, data man...
+Name: skills_requirements, dtype: object
