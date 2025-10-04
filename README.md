@@ -128,10 +128,11 @@ The Power BI dashboard includes:
 •	Job postings by employer
 •	Job postings by U.S. state
 •	Top technical skills required
+________________________________________
 ### SQL Server Database created "Linkedin_jobs" 
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/92e95080-c662-432d-a035-c142d9d9d82e" />
-
+________________________________________
 ### Power BI Data Engineering Job Postings Analysis Dashboard
 
 
