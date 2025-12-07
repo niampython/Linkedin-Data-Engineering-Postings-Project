@@ -31,7 +31,7 @@ The data is then visualized in **Power BI** to uncover hiring trends and skill d
 ________________________________________
 ### Power BI Data Engineering Job Postings Analysis Dashboard
 <p align="center">
-  <img src="Power%20Bi%20Dashboard/Linkedin%20Postings%20Dashboard.jpg" width="800" alt="LinkedIn Power BI Dashboard Preview">
+  <img src="Power BI Dashboard/Linkedin Postings Dashboard.jpg" width="800" alt="LinkedIn Power BI Dashboard Preview">
 </p>
 
 ## 📊 Live Power BI Dashboard — *Click to Interact*
