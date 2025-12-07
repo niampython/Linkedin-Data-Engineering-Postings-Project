@@ -27,7 +27,22 @@ Gain insights into the **Data Engineering job market** by analyzing LinkedIn job
 
 This project is designed to gain insights into **Data Engineering job postings on LinkedIn**.  
 Using the **LinkedIn Jobs API** from RapidAPI, it extracts job posting data, transforms it into a clean tabular format, and loads it into a **SQL Server** database.  
-The data is then visualized in **Power BI** to uncover hiring trends and skill demand.  
+The data is then visualized in **Power BI** to uncover hiring trends and skill demand. 
+________________________________________
+### Power BI Data Engineering Job Postings Analysis Dashboard
+<p align="center">
+  <img src="Power%20Bi%20Dashboard/Linkedin%20Postings%20Dashboard.jpg" width="800" alt="LinkedIn Power BI Dashboard Preview">
+</p>
+
+## 📊 Live Power BI Dashboard — *Click to Interact*
+
+<p align="center">
+  🔗 <a href="https://app.powerbi.comhttps://app.powerbi.com/reportEmbed?reportId=9f80db6d-e5bb-4a10-906b-62600a0bebf5&autoAuth=true&ctid=8a192eec-453e-4f06-806b-8f06b382f1d9" target="_blank"><b>Click Here to Open the Interactive Dashboard</b></a>
+</p>
+
+> *(Best viewed on desktop for full interactivity)*
+
+---
 
 ### Objectives  
 Analyze job market demand for data engineers within the last 7 days and answer questions such as:  
@@ -42,18 +57,6 @@ Analyze job market demand for data engineers within the last 7 days and answer q
 
 This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline with **Power BI dashboards** for insights.  
 
-________________________________________
-### Power BI Data Engineering Job Postings Analysis Dashboard
-
-## 📊 Live Power BI Dashboard — *Click to Interact*
-
-<p align="center">
-  🔗 <a href="https://app.powerbi.comhttps://app.powerbi.com/reportEmbed?reportId=9f80db6d-e5bb-4a10-906b-62600a0bebf5&autoAuth=true&ctid=8a192eec-453e-4f06-806b-8f06b382f1d9" target="_blank"><b>Click Here to Open the Interactive Dashboard</b></a>
-</p>
-
-> *(Best viewed on desktop for full interactivity)*
-
----
 
 ## 🛠 Tech Stack  
 
