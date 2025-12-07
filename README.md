@@ -37,7 +37,7 @@ ________________________________________
 ## 📊 Live Power BI Dashboard — *Click to Interact*
 
 <p align="center">
-  🔗 <a href="https://app.powerbi.comhttps://app.powerbi.com/reportEmbed?reportId=9f80db6d-e5bb-4a10-906b-62600a0bebf5&autoAuth=true&ctid=8a192eec-453e-4f06-806b-8f06b382f1d9" target="_blank"><b>Click Here to Open the Interactive Dashboard</b></a>
+  🔗 <a href="https://app.powerbi.com/reportEmbed?reportId=9f80db6d-e5bb-4a10-906b-62600a0bebf5&autoAuth=true&ctid=8a192eec-453e-4f06-806b-8f06b382f1d9" target="_blank"><b>Click Here to Open the Interactive Dashboard</b></a>
 </p>
 
 > *(Best viewed on desktop for full interactivity)*
