@@ -42,7 +42,11 @@ Analyze job market demand for data engineers within the last 7 days and answer q
 
 This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline with **Power BI dashboards** for insights.  
 
----
+________________________________________
+### Power BI Data Engineering Job Postings Analysis Dashboard
+
+
+<img width="1215" height="807" alt="image" src="https://github.com/user-attachments/assets/26c8f8c4-3d59-4e6f-af63-bbd7243fef96" />
 
 ## 🛠 Tech Stack  
 
@@ -133,11 +137,7 @@ ________________________________________
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/92e95080-c662-432d-a035-c142d9d9d82e"> 
 
-________________________________________
-### Power BI Data Engineering Job Postings Analysis Dashboard
 
-
-<img width="1215" height="807" alt="image" src="https://github.com/user-attachments/assets/26c8f8c4-3d59-4e6f-af63-bbd7243fef96" />
 
 
 
