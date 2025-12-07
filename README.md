@@ -47,7 +47,7 @@ ________________________________________
 
 
 <img width="1215" height="807" alt="image" src="https://github.com/user-attachments/assets/26c8f8c4-3d59-4e6f-af63-bbd7243fef96" />
-
+https://app.powerbi.com/reportEmbed?reportId=9f80db6d-e5bb-4a10-906b-62600a0bebf5&autoAuth=true&ctid=8a192eec-453e-4f06-806b-8f06b382f1d9
 ## 🛠 Tech Stack  
 
 - **Python** → for API requests & data extraction  
